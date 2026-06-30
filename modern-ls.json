@@ -1,12 +1,12 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/the-mayankjha/modern-ls/releases/download/v1.0.8/modern-ls_1.0.8_windows_amd64.zip",
+            "url": "https://github.com/the-mayankjha/modern-ls/releases/download/v1.0.9/modern-ls_1.0.9_windows_amd64.zip",
             "bin": [
                 "modern-ls.exe"
             ],
-            "hash": "0c713bb0b41ebc53123a414cf950be419e79361086a5b93f05f0d5b0ef4ba19c"
+            "hash": "fb7973a950fb48eea739355f04e082c28bcb0a3daefe0863f257281cd7392f39"
         }
     },
     "homepage": "https://github.com/the-mayankjha/modern-ls",
