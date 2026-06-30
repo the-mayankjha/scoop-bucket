@@ -1,0 +1,15 @@
+{
+    "version": "1.0.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/the-mayankjha/modern-ls/releases/download/v1.0.6/modern-ls_1.0.6_windows_amd64.zip",
+            "bin": [
+                "modern-ls.exe"
+            ],
+            "hash": "47f0a797ea74d08de4fab3c5dba51929d1c2f58c8ea4ab4cc07e1d6bf1f27ccf"
+        }
+    },
+    "homepage": "https://github.com/the-mayankjha/modern-ls",
+    "license": "MIT",
+    "description": "A beautiful, extremely fast, modern replacement for Unix ls."
+}
